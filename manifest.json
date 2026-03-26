@@ -1,0 +1,11 @@
+{
+	"id": "empathy-engine",
+	"name": "Empathy Engine",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Analyze voice notes for emotion, sentiment, and authenticity. Local-first — your data never leaves your machine.",
+	"author": "Nurdrope",
+	"authorUrl": "https://github.com/Nurdrope",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
